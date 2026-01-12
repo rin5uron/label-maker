@@ -19,10 +19,8 @@
 ## 📚 関連ドキュメント
 
 - **[進捗管理](./PROGRESS.md)** - 販売実績・入稿状況・次のステップ・印刷品質テスト結果
-- **[プロジェクト一覧](./PROJECTS.md)** - 全プロジェクトの詳細（ショートカットキーステッカー・HTTPエラーコードステッカー）
 - **[ショートカットリスト一覧](./SHORTCUT-LIST.md)** - ターゲット別リストまとめ
 - **[ショートカットリスト詳細](./shortcut-lists/3step.md)** - 全リストの詳細
-- **[商品紹介文・商品説明案](./sales/product-descriptions.md)** - メルカリ/BASE用の商品説明文
 - **[市場調査チェックリスト](./research/market-research-checklist.md)** - 市場調査の詳細
 
 ---
